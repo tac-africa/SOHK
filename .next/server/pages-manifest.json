@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/about_us": "pages/about_us.html",
+  "/api/UNinternationalDays": "pages/api/UNinternationalDays.js",
+  "/api/hello": "pages/api/hello.js",
+  "/api/navLinks": "pages/api/navLinks.js",
+  "/api/teamData": "pages/api/teamData.js",
+  "/contact": "pages/contact.html",
+  "/founder": "pages/founder.html",
+  "/": "pages/index.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
